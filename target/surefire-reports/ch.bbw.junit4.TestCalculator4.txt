@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: ch.bbw.junit4.TestCalculator4
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in ch.bbw.junit4.TestCalculator4
+testAdd  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at ch.bbw.junit4.TestCalculator4.testAdd(TestCalculator4.java:25)
+
+testSubtrakt  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at ch.bbw.junit4.TestCalculator4.testSubtrakt(TestCalculator4.java:30)
+

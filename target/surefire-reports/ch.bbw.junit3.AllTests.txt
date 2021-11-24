@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: ch.bbw.junit3.AllTests
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in ch.bbw.junit3.AllTests
+warning  Time elapsed: 0 s  <<< FAILURE!
+junit.framework.AssertionFailedError: Test method isn't public: testHello(ch.bbw.junit3.TestCalculator6)
+	at junit.framework.TestSuite$1.runTest(TestSuite.java:97)
+
+warning  Time elapsed: 0 s  <<< FAILURE!
+junit.framework.AssertionFailedError: No tests found in ch.bbw.junit3.TestCalculator7
+	at junit.framework.TestSuite$1.runTest(TestSuite.java:97)
+

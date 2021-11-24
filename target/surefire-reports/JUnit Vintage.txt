@@ -1,0 +1,80 @@
+-------------------------------------------------------------------------------
+Test set: JUnit Vintage
+-------------------------------------------------------------------------------
+Tests run: 56, Failures: 19, Errors: 0, Skipped: 0, Time elapsed: 0.039 s <<< FAILURE! - in JUnit Vintage
+testAdd  Time elapsed: 0.012 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at ch.bbw.junit4.TestCalculator11.testAdd(TestCalculator11.java:22)
+
+testSubtrakt  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at ch.bbw.junit4.TestCalculator11.testSubtrakt(TestCalculator11.java:28)
+
+testAdd  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at ch.bbw.junit4.TestCalculator13.testAdd(TestCalculator13.java:25)
+
+testSubtrakt  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at ch.bbw.junit4.TestCalculator13.testSubtrakt(TestCalculator13.java:35)
+
+testAdd1  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at ch.bbw.junit4.TestCalculator13.testAdd1(TestCalculator13.java:30)
+
+testAddString  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at ch.bbw.junit4.TestCalculator13.testAddString(TestCalculator13.java:40)
+
+test  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at ch.bbw.junit4.TestCalc.test(TestCalc.java:24)
+
+testSubtrakt  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at ch.bbw.junit4.TestCalculator12.testSubtrakt(TestCalculator12.java:45)
+
+testAdd1  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: return value expected:<6.0E25> but was:<6.0E27>
+	at ch.bbw.junit4.TestCalculator12.testAdd1(TestCalculator12.java:40)
+
+testAdd  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at ch.bbw.junit4.TestCalculator2.testAdd(TestCalculator2.java:22)
+
+testAdd  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at ch.bbw.junit4.TestCalculator2.testAdd(TestCalculator2.java:22)
+
+testAdd  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at ch.bbw.junit4.TestCalculator4.testAdd(TestCalculator4.java:25)
+
+testSubtrakt  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at ch.bbw.junit4.TestCalculator4.testSubtrakt(TestCalculator4.java:30)
+
+testAdd  Time elapsed: 0.001 s  <<< FAILURE!
+junit.framework.AssertionFailedError: Not yet implemented
+	at ch.bbw.junit3.TestCalculator8.testAdd(TestCalculator8.java:21)
+
+testSubtrakt  Time elapsed: 0.001 s  <<< FAILURE!
+junit.framework.AssertionFailedError: Not yet implemented
+	at ch.bbw.junit3.TestCalculator8.testSubtrakt(TestCalculator8.java:25)
+
+warning  Time elapsed: 0 s  <<< FAILURE!
+junit.framework.AssertionFailedError: Test method isn't public: testHello(ch.bbw.junit3.TestCalculator6)
+	at junit.framework.TestSuite$1.runTest(TestSuite.java:96)
+
+warning  Time elapsed: 0 s  <<< FAILURE!
+junit.framework.AssertionFailedError: No tests found in ch.bbw.junit3.TestCalculator7
+	at junit.framework.TestSuite$1.runTest(TestSuite.java:96)
+
+warning  Time elapsed: 0 s  <<< FAILURE!
+junit.framework.AssertionFailedError: Test method isn't public: testHello(ch.bbw.junit3.TestCalculator6)
+	at junit.framework.TestSuite$1.runTest(TestSuite.java:96)
+
+warning  Time elapsed: 0 s  <<< FAILURE!
+junit.framework.AssertionFailedError: No tests found in ch.bbw.junit3.TestCalculator7
+	at junit.framework.TestSuite$1.runTest(TestSuite.java:96)
+

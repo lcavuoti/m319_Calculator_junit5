@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: ch.bbw.junit4.TestCalculator12
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in ch.bbw.junit4.TestCalculator12
+testSubtrakt  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at ch.bbw.junit4.TestCalculator12.testSubtrakt(TestCalculator12.java:45)
+
+testAdd1  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: return value expected:<6.0E25> but was:<6.0E27>
+	at ch.bbw.junit4.TestCalculator12.testAdd1(TestCalculator12.java:40)
+
